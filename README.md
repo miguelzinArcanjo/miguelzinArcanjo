@@ -21,8 +21,8 @@ Estou em constante evolução e aberto a novas oportunidades de aprendizado e co
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150m" src="https://github-readme-stats.vercel.app/api?username=miguelzinArcanjo&show_icons=true&theme=tokyonight&hide_title=false" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelzinArcanjo&layout=compact&theme=tokyonight" />
+  <img height="120m" src="https://github-readme-stats.vercel.app/api?username=miguelzinArcanjo&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelzinArcanjo&layout=compact&theme=tokyonight" />
 </p>
 
 📫 Contato: [miguelarcanjomlzff2008@gmail.com]****
